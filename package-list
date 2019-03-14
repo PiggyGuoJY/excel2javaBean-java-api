@@ -7,4 +7,5 @@ com.github.piggyguojy.parser.excel.rule.type
 com.github.piggyguojy.parser.rule.parse
 com.github.piggyguojy.parser.rule.structure
 com.github.piggyguojy.parser.rule.structure.annotation
+com.github.piggyguojy.parser.rule.structure.inherit
 com.github.piggyguojy.parser.rule.type
