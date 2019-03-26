@@ -1,11 +1,11 @@
-com.github.piggyguojy
 com.github.piggyguojy.parser.excel
-com.github.piggyguojy.parser.excel.rule.parse
-com.github.piggyguojy.parser.excel.rule.structure.annotation
-com.github.piggyguojy.parser.excel.rule.structure.annotation.handler
-com.github.piggyguojy.parser.excel.rule.type
+com.github.piggyguojy.parser.excel.parse
+com.github.piggyguojy.parser.excel.structure.annotation
+com.github.piggyguojy.parser.excel.structure.annotation.handler
+com.github.piggyguojy.parser.excel.type
 com.github.piggyguojy.parser.rule.parse
 com.github.piggyguojy.parser.rule.structure
 com.github.piggyguojy.parser.rule.structure.annotation
 com.github.piggyguojy.parser.rule.structure.inherit
 com.github.piggyguojy.parser.rule.type
+com.github.piggyguojy.util
